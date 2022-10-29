@@ -1,0 +1,47 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>MOVIES</name>
+            <path pathversion="1">http://103.82.8.194/Data/English/hollywood/</path>
+            <path pathversion="1">http://103.82.8.194/Data/1-100_Movies/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Animation/</path>
+            <path pathversion="1">http://103.82.8.194/Data/By_Letters/A/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Chinese/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Hindi/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Imdb-Top-250/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Indian%20Bangla/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Other_Lang/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Tamil%2C%20Talugu%20Hindi%20Dubbed/</path>
+            <path pathversion="1">http://103.82.8.194/Data/YTS/</path>
+            <path pathversion="1">http://103.82.8.194/Data/hindi-dubbed/</path>
+            <path pathversion="1">http://103.82.8.194/Data/korean/</path>
+            <path pathversion="1">http://103.82.8.194/Data/tuhin/</path>
+            <path pathversion="1">http://103.82.8.194/Data/tamil/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TV SERIES</name>
+            <path pathversion="1">http://103.82.8.194/Data/t/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Tvseries/</path>
+            <path pathversion="1">http://103.82.8.194/Data/Tv%20Serise/</path>
+            <path pathversion="1">http://103.82.8.194/Data/tuhin/Series/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
